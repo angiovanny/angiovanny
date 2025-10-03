@@ -1,8 +1,7 @@
 ### Hi there, I'm Andres Giovanny👋
 
-- 🎓 Technologist in data systematization.
-- 📚 Current student of systems engineering.
-- 💻 I’m currently learning Java Script, React, Node JS.
+- 🎓 Systems engineer.
+- 💻 I’m currently learning Python, JavaScript.
 - 🐧 I’m currently working on Linux system administration.
 
 #### Basic command table:
