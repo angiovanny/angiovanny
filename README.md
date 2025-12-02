@@ -1,7 +1,7 @@
 ### Hi there, I'm Andres Giovanny👋
 
 - 🎓 Systems engineer.
-- 💻 I’m currently learning Python, JavaScript.
+- 💻 I’m currently learning Python.
 - 🐧 I’m currently working on Linux system administration.
 
 #### Basic command table:
